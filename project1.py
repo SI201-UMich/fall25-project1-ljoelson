@@ -13,6 +13,7 @@
 # Lilly's Functions: lowest_ratio_2007() and calc_fpercent()
 # GenAI Statement: Used Chat GPT to guide coding process on how to build functions in English and debug code. It also helped be build my Unit Tests by giving me ideas on what to test and guiding how to build the code
 # Git commits were done on Karen's copy of the code
+# So I am adding comments to meet the commit requirement
 import csv
 import unittest
 
