@@ -15,6 +15,8 @@
 # Git commits were done on Karen's copy of the code
 # So I am adding comments to meet the commit requirement
 # If you want to see our actual commits look at Karen's git commits
+# Thanks
+
 import csv
 import unittest
 
